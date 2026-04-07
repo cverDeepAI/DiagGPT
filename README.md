@@ -1,4 +1,4 @@
-# DoctorGPT
+# <img width="2620" height="1890" alt="image" src="https://github.com/user-attachments/assets/23f43171-7437-4daa-a3d5-dfc0e618c983" />
 
 **A Vision-Language AI System for Medical Imaging Assistance**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-**DoctorGPT** is a vision-language model (VLM) fine-tuning framework designed for medical imaging understanding and clinical question answering. Built on top of state-of-the-art multimodal large language models, DoctorGPT aims to bring AI-assisted diagnostic capabilities to real-world clinical workflows.
+**DiagGPT** is a vision-language model (VLM) fine-tuning framework designed for medical imaging understanding and clinical question answering. Built on top of state-of-the-art multimodal large language models, DiagGPT aims to bring AI-assisted diagnostic capabilities to real-world clinical workflows.
 
 The system supports multi-turn visual conversations grounded in medical images, enabling contextual reasoning and structured clinical responses.
 
@@ -39,4 +39,4 @@ For collaboration inquiries or early access requests, please open an issue or re
 
 ---
 
-*DoctorGPT — Bringing AI Closer to Clinical Practice*
+*DiagGPT — Bringing AI Closer to Clinical Practice*
