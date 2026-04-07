@@ -1,4 +1,3 @@
-# <img width="2620" height="1890" alt="image" src="https://github.com/user-attachments/assets/23f43171-7437-4daa-a3d5-dfc0e618c983" />
 
 **A Vision-Language AI System for Medical Imaging Assistance**
 
